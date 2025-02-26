@@ -1,0 +1,21 @@
+
+        .table1 {
+            color :rgb(131, 59, 8);
+            background-color: antiquewhite;
+            padding: 20px; 
+            border-radius: 30px;
+            width :500px;
+
+        }
+        .table2 {
+            color :rgb(8, 131, 22);
+            background-color: rgb(180, 41, 41);
+            padding: 20px; 
+            width: 500px;
+            border-radius: 30px;
+
+        }
+        th,td{
+            background-color: aqua;
+            padding: 5px;
+        }
